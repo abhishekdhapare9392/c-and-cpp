@@ -1,0 +1,56 @@
+class payroll extends employee{
+    employee 1: 
+        {
+            name: "John Doe",
+            address: "123 Main St.",
+            city: "New York",
+            state: "NY",
+            zip: "10001",
+            phone: "123-456-7890",
+            email: "test@testing.com",
+            payment: 5000000,
+            start_date: "01/01/2016",
+            employee_id: 1
+        }
+    employee 2 :
+    {
+            name: "John Doe",
+            address: "123 Main St.",
+            city: "New York",
+            state: "NY",
+            zip: "10001",
+            phone: "123-456-7890",
+            email: "test@testing.com",
+            payment: 5000000,
+            start_date: "01/01/2016",
+            employee_id: 1
+        } 
+    employee 3
+    employee 4
+    employee 5
+    employee 6
+} 
+
+
+class employee{
+    name: {"John Doe"}
+}
+
+
+class data(){
+    let a and b;
+    a = 10;
+    b = 20;
+
+    function add(a, b){
+        return a + b;
+    }
+
+    function addition(a, b){
+        return a+=b;
+    }
+}
+
+
+
+
